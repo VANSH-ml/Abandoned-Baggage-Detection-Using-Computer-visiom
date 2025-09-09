@@ -37,7 +37,7 @@ The **Abandoned Baggage Detection System** is an AI-powered surveillance solutio
 ![Detection Example 1](https://github.com/VANSH-ml/Abandoned-Baggage-Detection-Using-Computer-visiom/blob/main/Screenshot%202025-07-02%20191538.png)
 
 ### Tracking Individuals
-![Detection Example 2](./images/detection2.jpg)
+![Detection Example 2]([./images/detection2.jpg](https://github.com/VANSH-ml/Abandoned-Baggage-Detection-Using-Computer-visiom/blob/main/Screenshot%202025-07-02%20191550.png))
 
 ---
 
@@ -48,7 +48,7 @@ The system uses a **YOLOv8/ Faster R-CNN** object detection model (can be custom
 3. **Tracking** → Track individuals near detected objects  
 4. **Alert Generation** → Trigger alert if baggage is unattended  
 
-![Architecture Diagram](./images/architecture.jpg)
+
 
 ---
 
