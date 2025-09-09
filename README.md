@@ -34,7 +34,7 @@ The **Abandoned Baggage Detection System** is an AI-powered surveillance solutio
 
 ## Screenshots
 ### Real-Time Detection
-![Detection Example 1](./images/detection1.jpg)
+![Detection Example 1](https://github.com/VANSH-ml/Abandoned-Baggage-Detection-Using-Computer-visiom/blob/main/Screenshot%202025-07-02%20191538.png)
 
 ### Tracking Individuals
 ![Detection Example 2](./images/detection2.jpg)
